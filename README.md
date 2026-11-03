@@ -13,7 +13,7 @@ I hope I can figure this out in an easily digestable manner. I feel some of the 
 # Software with Provided Icons
 
 - Kate Editor - Windows Aero/Aqua style by [ElastedAlorian](https://www.github.com/ElastedAlorian)
-    - In formats of: `png`, `af`, and `svg`
+    - In formats of: `png`, `af`, `svg`, and  `ico`
 
 # Planned Aesthetics and Structure
 
@@ -99,7 +99,14 @@ When this repository is better suit for contributing, there are only a few thing
         - For example, a project created with Affinity by Canva may have a file labelled with `af` or `aftemplate` at the end, this would be accepted! Photoshop (and others) may utilize `psd`, and so on.
     - If you're ripping it from a software, it would also be appreciated if the original icon was also put alongside it.
         - So it would be something like `icon.png` as well as `icon.ico/icns`
+        - Note: Canva Affinity is UNABLE to export as .ico! It's recommended that you export as SVG (without rasterization preferably) and then export with another software!
 3. All credit and info be due and correct!
     - If your icon was made by a friend, then you must credit your friend! If it was taken from a software or logo, then it must be said where it was from. So if you [grabbed an icon from a website](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Microsoft_Edge_logo_%282015%E2%80%932019%29.svg/960px-Microsoft_Edge_logo_%282015%E2%80%932019%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail) then you must [credit the website](https://en.wikipedia.org/wiki/Microsoft_Edge_Legacy) as the source you got it from. For instance, I grabbed the icon for Microsoft Edge Legacy from the Wikipedia page on it!
     
     Happy contributing!
+
+# External Links
+These URLs are chosen for extra icons that may not appear here, just in case. These may be good for your custom PC setups, mockups, and more!
+
+- ["[IconPACK] All Windows Version Taskbar Icons"](https://www.deviantart.com/benjamin2557/art/IconPACK-All-Windows-Versions-Taskbar-Icons-886660050) by Benjamin2257 on DeviantArt. Contains download URLs as well as a direct download.
+- ["Win7 Icons Viewer and Downloader"](https://win7icons.visnalize.com/) from Visnalize
